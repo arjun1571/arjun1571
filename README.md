@@ -1,12 +1,13 @@
 ![logo](https://github.com/arjun1571/arjun1571/blob/main/Arjun%20Chandra%20Das.png)
 <h1 align="center">Hi 👋, I'm Arjun Das</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-## 👨‍💻 About Me  
-- 💼 Software Engineer @ **Ecommerce Intelligence (Naviforce Watch Bangladesh)**  
-- 🛒 Building **automation-driven eCommerce platforms** (orders, courier booking, reports, stock)  
-- 🌱 Currently learning **Scalable SaaS, AI integrations & Cloud Deployments**  
-- 🎯 Passionate about **Next.js, Node.js, TypeScript, MongoDB**  
-- 📫 Reach me at: **arjundas404y@gmail.com** | 📞 +8801824751931  
+<!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
+<p align="center">
+  <b>Software Engineer | Full-Stack Developer | E-Commerce Automation</b><br/>
+  <a href="mailto:arjundas404y@gmail.com">📧 arjundas404y@gmail.com</a> |
+  <a href="tel:+8801824751931">📞 +8801824751931</a> |
+  <a href="https://arjundasbd.com" target="_blank">🌐 Portfolio</a> |
+  <a href="https://linkedin.com/in/arjun1571" target="_blank">💼 LinkedIn</a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
