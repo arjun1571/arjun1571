@@ -32,7 +32,7 @@ I’m a <b>Software Engineer</b> with over <b>2 years of professional experience
   <li>🎨 <b>Frontend:</b> React.js, Next.js, TypeScript, Redux, Tailwind CSS</li>
   <li>⚙️ <b>Backend:</b> Node.js, Express.js, MongoDB, MySQL, PostgreSQL</li>
   <li>📱 <b>Mobile:</b> React Native</li>
-  <li>🛠️ <b>Other Tools:</b> GitHub, AWS, Vercel, Netlify, Figma</li>
+  <li>🛠️ <b>Other Tools:</b> GitHub, AWS, Digitalocean, CloudPanel, Vercel, Netlify, Figma</li>
 </ul>
 
 ---
