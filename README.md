@@ -1,40 +1,48 @@
 ![logo](https://github.com/arjun1571/arjun1571/blob/main/Arjun%20Chandra%20Das.png)
-<h1 align="center">Hi, I’m Arjun Chandra Das 👋</h1>
+<h1 align="center">👋 Hi, I’m <span style="color:#bc1215;">Arjun Chandra Das</span></h1>
 
 <p align="center">
-  <b>Software Engineer | Full-Stack Developer | E-Commerce Automation</b>
+  <b>💻 Software Engineer | ⚡ Full-Stack Developer | 🛒 E-Commerce Automation Specialist</b>
 </p>
 
 <p>
 I’m a <b>Software Engineer</b> with over <b>2 years of professional experience</b> in building scalable and modern web applications.  
-I specialize in <b>React.js, Next.js, and TypeScript</b> for front-end development and have strong skills in <b>Node.js, Express, and MongoDB</b> for the back-end.
+✨ I specialize in <b>React.js, Next.js, and TypeScript</b> for front-end development and have strong skills in <b>Node.js, Express, and MongoDB</b> for the back-end.
 </p>
 
 <p>
-Currently, I’m working at <b>Ecommerce Intelligence</b> (a sub-company of Naviforce Watch Bangladesh) where I develop <b>automation-driven eCommerce platforms</b> — including multi-platform order aggregation, AI-powered courier booking, and centralized product management.
+🚀 Currently, I’m working at <b>Ecommerce Intelligence</b> (a sub-company of <i>Naviforce Watch Bangladesh</i>) where I develop <b>automation-driven eCommerce platforms</b> — including:  
+✔️ Multi-platform order aggregation  
+✔️ AI-powered courier booking  
+✔️ Centralized product management
 </p>
 
 <p>
-Previously at <b>Kuiperz</b>, I contributed to multiple projects like HR Payroll systems, landing page applications, and PWA solutions with React/Next.js.
+💼 Previously at <b>Kuiperz</b>, I contributed to multiple projects like:  
+- 👨‍💼 HR Payroll systems  
+- 🌐 Landing page applications  
+- 📱 Progressive Web Apps (PWA) with React/Next.js  
 </p>
 
 ---
 
-<h3>🔧 My Expertise Covers:</h3>
+<h2>🔧 My Expertise</h2>
 
 <ul>
-  <li><b>Frontend:</b> React.js, Next.js, TypeScript, Redux, Tailwind CSS</li>
-  <li><b>Backend:</b> Node.js, Express.js, MongoDB, MySQL, PostgreSQL</li>
-  <li><b>Mobile:</b> React Native</li>
-  <li><b>Other Tools:</b> GitHub, AWS, Vercel, Netlify, Figma</li>
+  <li>🎨 <b>Frontend:</b> React.js, Next.js, TypeScript, Redux, Tailwind CSS</li>
+  <li>⚙️ <b>Backend:</b> Node.js, Express.js, MongoDB, MySQL, PostgreSQL</li>
+  <li>📱 <b>Mobile:</b> React Native</li>
+  <li>🛠️ <b>Other Tools:</b> GitHub, AWS, Vercel, Netlify, Figma</li>
 </ul>
 
 ---
 
+<h2>🌟 What Drives Me</h2>
 <p>
 💡 I’m passionate about creating <b>scalable, secure, and maintainable software</b> that improves business efficiency.  
-My ambition is to keep growing as a <b>full-stack engineer</b> and contribute to impactful projects.
+🎯 My ambition is to keep growing as a <b>full-stack engineer</b> and contribute to impactful projects.
 </p>
+
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
