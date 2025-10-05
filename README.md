@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#bc1215;">Arjun Chandra Das</span></h1>
 
 <p align="center">
-  <b>💻 Software Engineer | ⚡ Full-Stack Developer | 🛒 E-Commerce Automation Specialist</b>
+  <b>💻 Software Engineer | ⚡ Full-Stack Developer </b>
 </p>
 
 <p>
